@@ -1,0 +1,9 @@
+﻿<Application x:Class="TranTienAnh_DCCTCT66_06A.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TranTienAnh_DCCTCT66_06A"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

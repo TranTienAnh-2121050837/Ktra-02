@@ -1,0 +1,3 @@
+C:\TranTienAnh_DCCTCT66_06A\TranTienAnh_DCCTCT66_06A\obj\Debug\TranTienAnh_DCCTCT66_06A.csproj.AssemblyReference.cache
+C:\TranTienAnh_DCCTCT66_06A\TranTienAnh_DCCTCT66_06A\obj\Debug\App.g.cs
+C:\TranTienAnh_DCCTCT66_06A\TranTienAnh_DCCTCT66_06A\obj\Debug\TranTienAnh_DCCTCT66_06A_MarkupCompile.cache
